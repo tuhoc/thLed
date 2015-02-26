@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For thLed
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+thLed	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setBitmap	KEYWORD2
+setLed	KEYWORD2
+clearAll	KEYWORD2
+update	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+AUTO_UPDATE	LITERAL1
+MANUAL_UPDATE	LITERAL1
